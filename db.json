@@ -1,0 +1,202 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "description": "Premium wireless headphones with noise cancellation",
+      "price": 199.99,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+      "details": [
+        "Active Noise Cancellation",
+        "40-hour battery life",
+        "Premium sound quality",
+        "Comfortable fit"
+      ],
+      "stock": 9
+    },
+    {
+      "id": "2",
+      "name": "Smart Watch",
+      "description": "Feature-rich smartwatch with health tracking",
+      "price": 299.99,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500",
+      "details": [
+        "Fitness Tracking",
+        "Built-in GPS",
+        "Water Resistance",
+        "Long Battery Life"
+      ],
+      "stock": 14
+    },
+    {
+      "id": "3",
+      "name": "Premium Camera",
+      "description": "Professional DSLR camera for photography enthusiasts",
+      "price": 899.99,
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500",
+      "details": [
+        "24.2MP sensor",
+        "4K video recording",
+        "Dual card slots",
+        "Weather-sealed body"
+      ],
+      "stock": 7
+    },
+    {
+      "id": "4",
+      "name": "Gaming Console",
+      "description": "Next-gen gaming console with 4K capabilities",
+      "price": 499.99,
+      "image": "https://images.unsplash.com/photo-1486401899868-0e435ed85128?w=500",
+      "details": [
+        "4K Gaming",
+        "1TB Storage",
+        "Ray Tracing",
+        "Digital Edition"
+      ],
+      "stock": 12
+    },
+    {
+      "id": "5",
+      "name": "Laptop",
+      "description": "Ultra-thin laptop with powerful performance",
+      "price": 1299.99,
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500",
+      "details": [
+        "Intel i7 Processor",
+        "16GB RAM",
+        "512GB SSD",
+        "14-inch 4K Display"
+      ],
+      "stock": 6
+    },
+    {
+      "id": "6",
+      "name": "Smartphone",
+      "description": "Latest flagship smartphone with advanced camera system",
+      "price": 999.99,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500",
+      "details": [
+        "Triple Camera System",
+        "5G Capable",
+        "128GB Storage",
+        "OLED Display"
+      ],
+      "stock": 18
+    },
+    {
+      "id": "7",
+      "name": "Wireless Earbuds",
+      "description": "True wireless earbuds with premium sound quality",
+      "price": 159.99,
+      "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500",
+      "details": [
+        "Active Noise Cancellation",
+        "24-hour battery life",
+        "Water resistant",
+        "Touch controls"
+      ],
+      "stock": 25
+    },
+    {
+      "id": "8",
+      "name": "Tablett",
+      "description": "Professional tablet for creative work",
+      "price": 699.99,
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+      "details": [
+        "11-inch Display",
+        "Apple Pencil support",
+        "256GB Storage",
+        "All-day battery"
+      ],
+      "stock": 10
+    }
+  ],
+  "orders": [
+    {
+      "id": "1735230855821",
+      "items": [
+        {
+          "id": "6",
+          "name": "Smartphone",
+          "description": "Latest flagship smartphone with advanced camera system",
+          "price": 999.99,
+          "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500",
+          "details": [
+            "Triple Camera System",
+            "5G Capable",
+            "128GB Storage",
+            "OLED Display"
+          ],
+          "stock": 20,
+          "quantity": 2
+        }
+      ],
+      "total": 1999.98,
+      "status": "completed",
+      "date": "2024-12-26T16:34:15.821Z"
+    },
+    {
+      "items": [
+        {
+          "id": "3",
+          "name": "Premium Camera",
+          "description": "Professional DSLR camera for photography enthusiasts",
+          "price": 899.99,
+          "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500",
+          "details": [
+            "24.2MP sensor",
+            "4K video recording",
+            "Dual card slots",
+            "Weather-sealed body"
+          ],
+          "stock": 8,
+          "quantity": 1
+        },
+        {
+          "id": "1",
+          "name": "Wireless Headphones",
+          "description": "Premium wireless headphones with noise cancellation",
+          "price": 199.99,
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+          "details": [
+            "Active Noise Cancellation",
+            "40-hour battery life",
+            "Premium sound quality",
+            "Comfortable fit"
+          ],
+          "stock": 10,
+          "quantity": 1
+        }
+      ],
+      "total": 1099.98,
+      "id": 1735767367738,
+      "status": "completed",
+      "date": "2025-01-01T21:36:08.002Z"
+    },
+    {
+      "items": [
+        {
+          "id": "2",
+          "name": "Smart Watch",
+          "description": "Feature-rich smartwatch with health tracking",
+          "price": 299.99,
+          "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500",
+          "details": [
+            "Fitness Tracking",
+            "Built-in GPS",
+            "Water Resistance",
+            "Long Battery Life"
+          ],
+          "stock": 15,
+          "quantity": 1
+        }
+      ],
+      "total": 299.99,
+      "id": 1735767390564,
+      "status": "pending",
+      "date": "2025-01-01T21:36:30.564Z"
+    }
+  ]
+}
