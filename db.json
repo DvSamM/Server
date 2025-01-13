@@ -12,7 +12,7 @@
         "Premium sound quality",
         "Comfortable fit"
       ],
-      "stock": 9
+      "stock": 7
     },
     {
       "id": "2",
@@ -54,7 +54,7 @@
         "Ray Tracing",
         "Digital Edition"
       ],
-      "stock": 12
+      "stock": 11
     },
     {
       "id": "5",
@@ -197,6 +197,52 @@
       "id": 1735767390564,
       "status": "pending",
       "date": "2025-01-01T21:36:30.564Z"
+    },
+    {
+      "items": [
+        {
+          "id": "1",
+          "name": "Wireless Headphones",
+          "description": "Premium wireless headphones with noise cancellation",
+          "price": 199.99,
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+          "details": [
+            "Active Noise Cancellation",
+            "40-hour battery life",
+            "Premium sound quality",
+            "Comfortable fit"
+          ],
+          "stock": 9,
+          "quantity": 2
+        }
+      ],
+      "total": 399.98,
+      "id": 1736792650461,
+      "status": "pending",
+      "date": "2025-01-13T18:24:10.461Z"
+    },
+    {
+      "items": [
+        {
+          "id": "4",
+          "name": "Gaming Console",
+          "description": "Next-gen gaming console with 4K capabilities",
+          "price": 499.99,
+          "image": "https://images.unsplash.com/photo-1486401899868-0e435ed85128?w=500",
+          "details": [
+            "4K Gaming",
+            "1TB Storage",
+            "Ray Tracing",
+            "Digital Edition"
+          ],
+          "stock": 12,
+          "quantity": 1
+        }
+      ],
+      "total": 499.99,
+      "id": 1736796795544,
+      "status": "pending",
+      "date": "2025-01-13T19:33:15.544Z"
     }
   ]
 }
