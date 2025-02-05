@@ -9,7 +9,7 @@ const middlewares = jsonServer.defaults(); // Default middlewares for JSON serve
 
 // Enable CORS for all routes
 server.use(cors({
-  origin: 'http://localhost:5173', // Allow requests from your frontend (React app)
+  origin: 'https://mini-ecommerce-gray.vercel.app', // or '*'
   methods: ['GET', 'POST', 'PATCH', 'DELETE'],
   allowedHeaders: ['Content-Type', 'Authorization'],
   credentials: true,
